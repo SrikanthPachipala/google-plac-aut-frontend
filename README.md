@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# google-plac-aut-frontend
+A React.js application with Google Place Autocomplete integration. Uses Redux Toolkit with Redux Thunk to store and display all user searches. Map rendering included. Styled with Tailwind CSS and follows a scalable folder structure.
+>>>>>>> 85435986fd3e980f82f5643fa03fedce7f8ef2b2
